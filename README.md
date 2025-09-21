@@ -1,7 +1,6 @@
 # 🩺 Diabetes Prediction using Machine Learning
 
 This project focuses on building and comparing different **machine learning models** to predict the onset of diabetes based on diagnostic measurements.  
-The dataset used is the **Pima Indians Diabetes Database**.
 
 ---
 
